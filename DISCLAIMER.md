@@ -136,15 +136,4 @@ This content does not confer professional authority, regulated status, or licens
 
 No part of this section may be reused, redistributed, cited, or repurposed without prior written permission from the Founder, except where limited quotation is permitted under applicable copyright law. All use is governed by the disclaimers and terms applicable throughout this site. By accessing this section, viewers acknowledge the personal, artistic, and contextual nature of its contents and agree not to rely on any information herein for professional, regulatory, legal, or decision-making purposes. Nothing on this website constitutes a representation, warranty, or assertion of professional availability, competence, or suitability for any purpose.
 
----
-
-## Footer
-
-© 2025–2026 NeusktchmechArc by Dr Mohit Bhatara. All rights reserved.
-*A Personal Provenance Transmuting Feeling into Form.*
-
-Personal artistic and conceptual website. Content is presented for non-commercial artistic, conceptual, and informational purposes. Certain materials associated with the NeusktchmechArc conceptual archive may incorporate symbolic, imaginative, speculative, or fictional elements as part of an artistic framework. Biographical content, where provided, is presented separately from the symbolic and conceptual framework applicable to certain creative works on this website. No services, advice, or transactions are offered, and no professional or formal relationship is created through the use of this website. This is an independent personal initiative and does not represent any institution unless expressly stated. This website may use analytics tools; please refer to the Privacy Notice for details. Use of this website is subject to the Disclaimers & Legal Context and Privacy Notice. Content, structure, and availability may be modified at any time without notice.
-
----
-
 Return to [README](README.md)
