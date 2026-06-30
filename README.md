@@ -1,2 +1,2 @@
 # NeusktchmechArc
-Early-stage conceptual design prototype exploring creative systems and structural frameworks.
+A personal art archive documenting NeusktchmechArc, a self-authored conceptual narrative exploring how lived experience takes visual form.
