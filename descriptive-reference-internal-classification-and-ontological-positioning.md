@@ -1,7 +1,5 @@
 # Appendix: Descriptive Reference, Internal Classification, and Ontological Positioning (Contextual)
 
-© 2025–2026 Dr Mohit Bhatara
-
 ## Status of This Appendix
 
 This appendix functions as a supplementary descriptive reference to the NeusktchmechArc. It is not part of the primary conceptual narrative, does not announce works, and does not indicate availability, release, or public presentation. All descriptions remain contextual, provisional, and non-final. All terms and groupings in this appendix are descriptive and contextual only and do not constitute a system, method, or operational framework.
