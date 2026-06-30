@@ -1,11 +1,10 @@
 cff-version: 1.2.0
 message: "If you reference this archive, please cite it as below."
 title: "NeusktchmechArc: A Personal Provenance Transmuting Feeling into Form"
-type: dataset
+type: generic
 authors:
   - family-names: Bhatara
     given-names: Mohit
-    name-particle: Dr
 abstract: >
   NeusktchmechArc is a personal art archive and fictional, internally
   constructed conceptual framework describing how lived impressions
