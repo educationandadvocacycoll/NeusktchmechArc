@@ -1,8 +1,7 @@
 cff-version: 1.2.0
-message: "If you reference this archive, please cite it using the metadata below."
+message: "This metadata identifies the GitHub reference snapshot. Before citing or otherwise using this archive, please consult the Disclaimers & Legal Context on the NeusktchmechArc website."
 title: "NeusktchmechArc: A Personal Provenance Transmuting Feeling into Form"
 type: dataset
-version: 1.0.0
 authors:
   - family-names: "Bhatara"
     given-names: "Mohit"
@@ -17,10 +16,11 @@ abstract: >
   than stages of a transferable method. The artistic framework is presented
   as a non-commercial creative work solely for contextual understanding and
   reflection, not for instruction, application, adoption, diagnosis, guidance,
-  or professional use.
+  or professional use. This GitHub repository is maintained as a separate
+  reference snapshot and may not reflect subsequent revisions to the website.
 url: "https://www.neusktchmecharc.site"
 repository: "https://github.com/educationandadvocacycoll/NeusktchmechArc"
-date-released: "2025"
+license-url: "https://github.com/educationandadvocacycoll/NeusktchmechArc/blob/main/LICENSE.md"
 keywords:
   - "conceptual art archive"
   - "artistic fiction"
@@ -34,3 +34,4 @@ preferred-citation:
       given-names: "Mohit"
   year: 2025
   url: "https://www.neusktchmecharc.site"
+  copyright: "© 2025–2026 Mohit Bhatara. All rights reserved."
