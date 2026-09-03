@@ -1,25 +1,36 @@
 cff-version: 1.2.0
-message: "If you reference this archive, please cite it as below."
+message: "If you reference this archive, please cite it using the metadata below."
 title: "NeusktchmechArc: A Personal Provenance Transmuting Feeling into Form"
-type: generic
+type: dataset
+version: 1.0.0
 authors:
-  - family-names: Bhatara
-    given-names: Mohit
+  - family-names: "Bhatara"
+    given-names: "Mohit"
 abstract: >
-  NeusktchmechArc is a personal art archive documenting a self-authored
-  conceptual framework that explores how lived impressions gradually
-  take visual form through symbolic and creative expression. The archive
-  incorporates fictional and imaginative elements within its artistic
-  narrative, structured around four conceptual phases: Interior Atlas,
-  First Emanation, Tranquil Rift, and Integration Phase. It is presented
-  as a non-commercial creative work and does not constitute a scientific,
-  medical, psychological, legal, or professional methodology.
+  The repository documents the NeusktchmechArc artistic framework, a distinct
+  part of an independently maintained personal creative, biographical, and
+  scholarly archive. The artistic framework is a fictional and internally
+  constructed reference space through which lived impressions are described
+  as gradually taking visual form. Its principal self-authored conceptual
+  references include Interior Atlas, First Emanation, Tranquil Rift, and
+  Integration Phase. These references are descriptive and contextual rather
+  than stages of a transferable method. The artistic framework is presented
+  as a non-commercial creative work solely for contextual understanding and
+  reflection, not for instruction, application, adoption, diagnosis, guidance,
+  or professional use.
 url: "https://www.neusktchmecharc.site"
-repository-code: "https://github.com/educationandadvocacycoll/NeusktchmechArc"
-license: "All-Rights-Reserved"
-date-released: "2026-06-30"
+repository: "https://github.com/educationandadvocacycoll/NeusktchmechArc"
+date-released: "2025"
 keywords:
-  - conceptual art archive
-  - artistic fiction
-  - personal narrative framework
-  - visual provenance
+  - "conceptual art archive"
+  - "artistic fiction"
+  - "personal artistic narrative"
+  - "visual provenance"
+preferred-citation:
+  type: art
+  title: "NeusktchmechArc: A Personal Provenance Transmuting Feeling into Form"
+  authors:
+    - family-names: "Bhatara"
+      given-names: "Mohit"
+  year: 2025
+  url: "https://www.neusktchmecharc.site"
